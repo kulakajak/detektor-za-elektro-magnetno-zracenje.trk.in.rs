@@ -22,7 +22,7 @@ title: Detektor za elektro magnetno zracenje
 description: >- # this means to ignore newlines until "baseurl:"
   U danasnjem vremenu je sasvim normalno da zivimo u polju elektro magnetnih
   talasa. Ali pozeljno je i to da znamo gde su veci a gde manji nivoi zracenja.
-  Ovaj sajt sluzi za to da se edukujemo sto vise na temu zracenja mobilnih
+  Ovaj sajt sluzi da se edukujemo u oblasti zracenja mobilnih
   telefona, wifi rutera, baznih stanica, dalekovoda i ostalih uredjaja koji
   emituju EM polje
 baseurl: "" # the subpath of your site, e.g. /blog
